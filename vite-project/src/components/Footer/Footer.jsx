@@ -4,7 +4,7 @@ import "bootstrap/dist/css/bootstrap.min.css";
 import { Carousel } from "react-bootstrap";
 function Footer() {
   return (
-    <footer className="footer mt-5">
+    <footer className="footer mt-0">
       <div className="container-fluid">
         <div className="row">
           <div className="col p-0 m-0">
